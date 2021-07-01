@@ -1,0 +1,17 @@
+body{
+	text-align: center;
+	background-color: azure;
+}
+marquee{
+	color: lawngreen;
+	text-align: center;
+	text-decoration: bold;
+}
+#kcal{
+	height: 1000px;
+	width: 500px;
+}
+#gym{
+	height: 1000px;
+	width: 500px;
+}
